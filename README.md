@@ -2,9 +2,13 @@
 Analyzing Thanksgiving Dinner
 
 **Research question:**
-what main dishes and dessert people tend to eat during Thanksgiving dinner?
-how the distance someone travels for Thanksgiving dinner relates to their income level?
-Is young people more likely to have "Friendsgiving"?
+
++ what main dishes and dessert people tend to eat during Thanksgiving dinner?
+
+* how the distance someone travels for Thanksgiving dinner relates to their income level?
+
+* Is young people more likely to have "Friendsgiving"?
+
 
 ## Data set introduction
 
